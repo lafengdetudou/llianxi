@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+#top{
+    height: 105px;
+    margin:auto;
+    text-align: center;
+    width: 100%;
+}
+
+.leftbox ul li{
+    float: left;
+    margin-left: 7px;
+
+}
+.red{
+    color: red;
+}
+#toprighttext{
+    height: 100px;
+    
+}
+.rightbox ul li{
+    float: right;
+    margin-left: 7px;
+}
